@@ -1,2 +1,4 @@
 # ATGEIR-ASSIGNMENT-1
 ITERATION TWO OF PERFORMING THIS ASSIGNMENT
+
+this is done by cloning the repository 
