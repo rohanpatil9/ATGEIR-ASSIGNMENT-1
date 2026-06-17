@@ -1,2 +1,2 @@
 # ATGEIR-ASSIGNMENT-1
-ITERATION TWO OF PERFORMING THIS ASSIGNMENT
+git assignment - with cloning the repo
